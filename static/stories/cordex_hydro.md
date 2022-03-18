@@ -74,6 +74,9 @@ Two weighting methods have been applied:
     historical performance of the models and the distance of its change
     projections to the future projected ensemble weighted change. Focus of the
     weighting was on river discharges near the outlet of the basin.
+    
+The blue dashes present the 5 and 95% uncertainty bounds for the full unweighted
+ensemble.
 
 For part of the basins the influence of the weighting was limited. There is
 little difference between the weighted and non-weigthed ensemble mean change.
