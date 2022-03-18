@@ -36,7 +36,11 @@ RCP8p5.
 - Discharge changes will likely depend on climatological conditions and
   catchment characteristics
 - The discharge response to rainfall changes is non linear and thus requires
-- modelling
+  hydrological modelling
+- A robust quantification of future changes in river flows enables in time adap-
+  tation in river basins. Yet, this study indicates there is still a lot of uncer-
+  tainty in climate change projections and it is important to use multiple sources 
+  of information.
 :::
 
 
