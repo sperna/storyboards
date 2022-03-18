@@ -49,6 +49,11 @@ RCP8p5.
 :::
 
 :::Chapter{headline="Projected changes – minimum flows" image="panel_4.png"}
+- The table on the left presents changes in 7-day minimum river flow (NM7Q) for the 
+  nine river basins investigated. Red indicates decreases, blue indicates future 
+  increases in flow, the darker the color the larger the change. Each column provides 
+  a projection of a specific CORDEX RCM, each row presents a projection of one of 
+  the hydrological models for the given river.  
 - There are clear indications for decreases in minimum flow in Southern European
   basins and increases in Northern basins.
 - The consensus between the different hydrological models and climate models is
